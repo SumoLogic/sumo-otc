@@ -1,1 +1,1 @@
-# sumologic-otc-libs
+# sumo-otc
